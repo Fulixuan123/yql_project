@@ -1,0 +1,12 @@
+../User/debug/bsp_debug.c:70:10:crc16_calc	12	static
+../User/debug/bsp_debug.c:86:6:debug_obj_init	8	static
+../User/debug/bsp_debug.c:100:6:debug_handle	64	static
+../User/debug/bsp_debug.c:218:6:debug_upload_data	40	static
+../User/debug/bsp_debug.c:282:6:debug_init	8	static
+../User/debug/bsp_debug.c:287:6:debug_send_state	8	static
+../User/debug/bsp_debug.c:294:6:debug_send_speed	8	static
+../User/debug/bsp_debug.c:301:6:debug_send_pos	16	static
+../User/debug/bsp_debug.c:309:6:debug_send_err	8	static
+../User/debug/bsp_debug.c:316:9:GetTargetStatus	0	static
+../User/debug/bsp_debug.c:322:10:GetTargetSpeed	0	static
+../User/debug/bsp_debug.c:328:10:GetTargetPosition	0	static

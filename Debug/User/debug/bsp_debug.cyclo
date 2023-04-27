@@ -1,0 +1,12 @@
+bsp_debug.c:70:10:crc16_calc	2
+bsp_debug.c:86:6:debug_obj_init	1
+bsp_debug.c:100:6:debug_handle	17
+bsp_debug.c:218:6:debug_upload_data	7
+bsp_debug.c:282:6:debug_init	1
+bsp_debug.c:287:6:debug_send_state	1
+bsp_debug.c:294:6:debug_send_speed	1
+bsp_debug.c:301:6:debug_send_pos	1
+bsp_debug.c:309:6:debug_send_err	1
+bsp_debug.c:316:9:GetTargetStatus	1
+bsp_debug.c:322:10:GetTargetSpeed	1
+bsp_debug.c:328:10:GetTargetPosition	1

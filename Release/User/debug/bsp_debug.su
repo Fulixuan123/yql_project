@@ -1,0 +1,9 @@
+../User/debug/bsp_debug.c:75:10:crc16_calc	32	static
+../User/debug/bsp_debug.c:96:6:debug_obj_init	24	static
+../User/debug/bsp_debug.c:111:6:debug_handle	56	static
+../User/debug/bsp_debug.c:198:6:debug_upload_data	104	static
+../User/debug/bsp_debug.c:264:6:debug_init	8	static
+../User/debug/bsp_debug.c:269:6:debug_send_state	16	static
+../User/debug/bsp_debug.c:276:6:debug_send_speed	16	static
+../User/debug/bsp_debug.c:283:6:debug_send_pos	16	static
+../User/debug/bsp_debug.c:291:6:debug_send_err	16	static
